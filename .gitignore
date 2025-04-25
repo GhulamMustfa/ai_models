@@ -1,1 +1,8 @@
 .venv/
+test_set/
+training_set/
+cats/
+dogs/
+data/
+model_checkpoint.h5
+cat_dog_model.h5
